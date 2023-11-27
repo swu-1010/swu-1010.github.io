@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkbookstore_app"]=self["webpackChunkbookstore_app"]||[]).push([[33],{75033:function(t,n,e){e.r(n),e.d(n,{default:function(){return c}});var u=function(){var t=this,n=t._self._c;return n("el-main",{staticStyle:{"min-height":"1080px"}},[n("div",{staticClass:"home"},[t._v(" 666 ")])])},o=[],s={name:"myIndex",data:function(){return{}},mounted:function(){},methods:{}},a=s,i=e(1001),r=(0,i.Z)(a,u,o,!1,null,"4803dd88",null),c=r.exports}}]);
-//# sourceMappingURL=33.a9b64612.js.map

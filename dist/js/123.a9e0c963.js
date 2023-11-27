@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkbookstore_app"]=self["webpackChunkbookstore_app"]||[]).push([[123],{37123:function(t,n,e){e.r(n),e.d(n,{default:function(){return l}});var u=function(){var t=this,n=t._self._c;return n("el-main",{staticStyle:{"min-height":"1080px"}},[n("div",[n("h1",[t._v("这里是关于")])])])},r=[],a={name:"myAbout",data:function(){return{}}},o=a,i=e(1001),s=(0,i.Z)(o,u,r,!1,null,"207812f9",null),l=s.exports}}]);
-//# sourceMappingURL=123.a9e0c963.js.map
